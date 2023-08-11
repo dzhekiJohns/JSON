@@ -1,0 +1,9 @@
+{
+"person":{
+"name":"Eugene",
+"age":37},
+"pets":[
+"cat":"Basya",
+"dog":"Malva"],
+"salary":3000
+}
