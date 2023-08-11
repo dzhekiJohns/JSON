@@ -1,0 +1,9 @@
+{
+"Preferences":{
+"Movies":["Lion", "Zootopia", "Pele", "Miracle in Cell No. 7"],
+"Series":["Big Bang Theury","Friends"],
+"Meals":["Cakes", "Pizza", "Salads"],
+"Summer":true,
+"Countries":["Portugal", "Mauritius", "USA", "China", "Brazil", "Singapur"]
+ }
+}
