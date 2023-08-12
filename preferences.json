@@ -1,9 +1,10 @@
 {
-"Preferences":{
-"Movies":["Lion", "Zootopia", "Pele", "Miracle in Cell No. 7"],
-"Series":["Big Bang Theury","Friends"],
-"Meals":["Cakes", "Pizza", "Salads"],
-"Summer":true,
-"Countries":["Portugal", "Mauritius", "USA", "China", "Brazil", "Singapur"]
- }
+	"preferences": {
+		"name": "Eugene",
+		"age": "37",
+		"movie": "Miracle in Cell No. 7",
+		"meals": "cakes",
+		"time of the year": "summer",
+		"country": "Mauritius"
+	}
 }
