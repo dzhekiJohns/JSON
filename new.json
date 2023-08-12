@@ -1,8 +1,9 @@
 {
 	"person": {
 		"name": "Eugene",
+    "surname": "Kirilyuk", 
 		"age": 37,
 		"pets": 0,
-		"salary": "3000€" 
+		"salary": 3000
 	}
 }
