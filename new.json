@@ -1,7 +1,7 @@
 {
 	"person": {
 		"name": "Eugene",
-    "surname": "Kirilyuk", 
+    		"surname": "Kirilyuk", 
 		"age": 37,
 		"pets": 0,
 		"salary": 3000
